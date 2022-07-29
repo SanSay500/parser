@@ -1,3 +1,11 @@
+Clone repo
+Run docker-compose up -d
+Run composer install (you must have composer installed)
+Visit localhost:82
+Edit index.php
+Docs https://symfony.com/doc/current/components/dom_crawler.html 
+
+
 DomCrawler Component
 ====================
 
